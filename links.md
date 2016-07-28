@@ -30,4 +30,10 @@
 *	Thingsquare (http://www.thingsquare.com/)
 
 # Архитектура сети
+
 * http://www.iotevolutionworld.com/iot/articles/403140-new-iot-threat-map-will-haunt-dreams.htm
+
+# Другие протоколы
+
+* Real-Time протокол RTPS: https://en.wikipedia.org/wiki/Real-Time_Publish-Subscribe_(RTPS)_Protocol
+* Проба реализации RTPS на NodeJS: https://github.com/iizukanao/node-rtsp-rtmp-server 
